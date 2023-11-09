@@ -1,0 +1,72 @@
+{"properties": [
+  {
+    "name": "username",
+    "type": "java.lang.String",
+    "description": "A description for 'username'"
+  },
+  {
+    "name": "Fisrtname",
+    "type": "java.lang.String",
+    "description": "A description for 'Fisrtname'"
+  },
+  {
+    "name": "Lastname",
+    "type": "java.lang.String",
+    "description": "A description for 'Lastname'"
+  },
+  {
+    "name": "name.Fisrtname",
+    "type": "java.lang.String",
+    "description": "A description for 'name.Fisrtname'"
+  },
+  {
+    "name": "name.Lastname",
+    "type": "java.lang.String",
+    "description": "A description for 'name.Lastname'"
+  },
+  {
+    "name": "name.Fisrtname",
+    "type": "java.lang.String",
+    "description": "A description for 'name.Fisrtname'"
+  },
+  {
+    "name": "name.Fisrtname",
+    "type": "java.lang.String",
+    "description": "A description for 'name.Fisrtname'"
+  },
+  {
+    "name": "name.Lastname",
+    "type": "java.lang.String",
+    "description": "A description for 'name.Lastname'"
+  },
+  {
+    "name": "name.Lastname",
+    "type": "java.lang.String",
+    "description": "A description for 'name.Lastname'"
+  },
+  {
+    "name": "name.Fisrtname",
+    "type": "java.lang.String",
+    "description": "A description for 'name.Fisrtname'"
+  },
+  {
+    "name": "name.Fisrtname",
+    "type": "java.lang.String",
+    "description": "A description for 'name.Fisrtname'"
+  },
+  {
+    "name": "name.Lastname",
+    "type": "java.lang.String",
+    "description": "A description for 'name.Lastname'"
+  },
+  {
+    "name": "name.Firstname",
+    "type": "java.lang.String",
+    "description": "A description for 'name.Firstname'"
+  },
+  {
+    "name": "hibernate.hbm2ddl.auto",
+    "type": "java.lang.String",
+    "description": "A description for 'hibernate.hbm2ddl.auto'"
+  }
+]}
