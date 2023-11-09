@@ -17,7 +17,7 @@ public class FileController {
 	FileService fileService;
 
 	@PostConstruct
-	@PostMapping("insertdata")
+	@PostMapping("insert")
 	public ResponseEntity<String> loadAndSaveProperties() {
 		return fileService.loadAndSaveProperties();
 	}
